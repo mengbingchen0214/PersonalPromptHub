@@ -1,3 +1,3 @@
-PersonalPromptHub - manage your own prompts. 
+PersonalPromptHub - manage my own prompts. 
 
-You can view it at: https://teal-melba-b56240.netlify.app
+You can view mine at: https://teal-melba-b56240.netlify.app
